@@ -1,0 +1,25 @@
+/* Sadece ValorantWiki bileşenine özel stiller */
+.custom-valorant-wiki {
+    color: black; /* Metin rengi */
+    font-family: Arial, sans-serif; /* Font ailesi */
+    font-size: 16px; /* Yazı boyutu */
+  }
+  
+  .custom-valorant-wiki h1 {
+    font-size: 28px;
+  }
+  
+  .custom-valorant-wiki h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .custom-valorant-wiki li {
+    list-style-type: disc; /* Liste işareti stili */
+    margin-left: 20px; /* Liste işaretinin sola uzaklığı */
+  }
+  
+  .custom-valorant-wiki p {
+    margin-bottom: 20px; /* Paragraflar arası boşluk */
+  }
+  
